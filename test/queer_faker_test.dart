@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 import 'package:collection/collection.dart'; // Import for list comparison
-import 'package:sanctuary_queer_faker/src/queer_faker_base.dart';
+import 'package:sanctuary_queer_faker/src/sanctuary_queer_faker_base.dart';
 
 void main() {
   group('QueerFaker', () {

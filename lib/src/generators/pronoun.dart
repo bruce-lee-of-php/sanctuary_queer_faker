@@ -1,6 +1,6 @@
 import 'package:sanctuary_l10n_core/sanctuary_l10n_core.dart';
 import 'package:meta/meta.dart';
-import 'package:sanctuary_queer_faker/src/queer_faker_base.dart'
+import 'package:sanctuary_queer_faker/src/sanctuary_queer_faker_base.dart'
     show QueerFaker;
 
 /// A generator for pronoun sets.
