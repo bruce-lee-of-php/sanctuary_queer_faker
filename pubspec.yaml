@@ -1,9 +1,9 @@
 name: sanctuary_queer_faker
 description: A Dart package for generating realistic and inclusive test data, with a focus on LGBTQ+ identities.
 version: 0.1.0
-homepage: https://github.com/your_username/sanctuary_queer_faker # <-- TODO: Replace with your repo URL
-repository: https://github.com/your_username/sanctuary_queer_faker # <-- TODO: Replace with your repo URL
-issue_tracker: https://github.com/your_username/sanctuary_queer_faker/issues # <-- TODO: Replace with your repo issues URL
+homepage: https://github.com/bruce-lee-of-php//sanctuary_queer_faker 
+repository: https://github.com/bruce-lee-of-php//sanctuary_queer_faker 
+issue_tracker: https://github.com/bruce-lee-of-php//sanctuary_queer_faker/issues 
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
